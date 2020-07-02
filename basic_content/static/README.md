@@ -72,8 +72,6 @@ public:
 		// Do nothing 
 	}; 
 }; 
-// 静态变量是需要定义的，类中的静态变量只做了声明
-int Apple::i = 5;
 
 int main() 
 { 
